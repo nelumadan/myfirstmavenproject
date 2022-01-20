@@ -1,2 +1,0 @@
-This is file created to test the pull command
-This line is added to check the push command again
