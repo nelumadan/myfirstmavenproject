@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T09:46:18 PST" name="Suite" finished-at="2022-01-20T09:46:18 PST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2022-01-20T09:46:18 PST" name="Test" finished-at="2022-01-20T09:46:18 PST" duration-ms="58">
+      <class name="com.Julybatch.AppTest">
+        <test-method signature="testLogin1()[pri:0, instance:com.Julybatch.AppTest@3c0a50da]" started-at="2022-01-20T09:46:18 PST" name="testLogin1" finished-at="2022-01-20T09:46:18 PST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method signature="testLogin2()[pri:0, instance:com.Julybatch.AppTest@3c0a50da]" started-at="2022-01-20T09:46:18 PST" name="testLogin2" finished-at="2022-01-20T09:46:18 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- com.Julybatch.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
