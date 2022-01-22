@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="49" started-at="2022-01-21T21:13:35 PST" finished-at="2022-01-21T21:13:35 PST">
+  <suite name="Suite" duration-ms="42574" started-at="2022-01-21T22:47:14 PST" finished-at="2022-01-21T22:47:57 PST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="49" started-at="2022-01-21T21:13:35 PST" finished-at="2022-01-21T21:13:35 PST">
+    <test name="Test" duration-ms="42574" started-at="2022-01-21T22:47:14 PST" finished-at="2022-01-21T22:47:57 PST">
+      <class name="com.Julybatch.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Julybatch.LoginTest@56ac3a89]" name="loginTest" duration-ms="42410" started-at="2022-01-21T22:47:14 PST" finished-at="2022-01-21T22:47:57 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Julybatch.LoginTest -->
       <class name="com.Julybatch.AppTest">
-        <test-method status="PASS" signature="testLogin1()[pri:0, instance:com.Julybatch.AppTest@5f2108b5]" name="testLogin1" duration-ms="15" started-at="2022-01-21T21:13:35 PST" finished-at="2022-01-21T21:13:35 PST">
+        <test-method status="PASS" signature="testLogin1()[pri:0, instance:com.Julybatch.AppTest@27c20538]" name="testLogin1" duration-ms="133" started-at="2022-01-21T22:47:57 PST" finished-at="2022-01-21T22:47:57 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin1 -->
-        <test-method status="PASS" signature="testLogin2()[pri:0, instance:com.Julybatch.AppTest@5f2108b5]" name="testLogin2" duration-ms="0" started-at="2022-01-21T21:13:35 PST" finished-at="2022-01-21T21:13:35 PST">
+        <test-method status="PASS" signature="testLogin2()[pri:0, instance:com.Julybatch.AppTest@27c20538]" name="testLogin2" duration-ms="0" started-at="2022-01-21T22:47:57 PST" finished-at="2022-01-21T22:47:57 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin2 -->
